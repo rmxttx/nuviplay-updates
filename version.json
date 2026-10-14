@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "apkUrl": "https://github.com/rmxttx/nuviplay-updates/releases/download/v1.0.14/Nuviplay-Grok.apk",
-  "notes": "Novo perfil ao abrir, canais pelo controle (cima/baixo), favoritar filmes e séries no player."
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "apkUrl": "https://github.com/rmxttx/nuviplay-updates/releases/download/v1.0.15/Nuviplay-Grok.apk",
+  "notes": "Abertura NUVIPLAY ao entrar no perfil."
 }
