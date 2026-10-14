@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
-  "apkUrl": "https://github.com/rmxttx/nuviplay-updates/releases/download/v1.0.11/Nuviplay-Grok.apk",
-  "notes": "TV ao vivo: guia de programação continua visível depois do OK e se atualiza sozinho."
+  "versionCode": 13,
+  "versionName": "1.0.12",
+  "apkUrl": "https://github.com/rmxttx/nuviplay-updates/releases/download/v1.0.12/Nuviplay-Grok.apk",
+  "notes": "Guia de programação na lista e na tela cheia (Agora + A seguir)."
 }
