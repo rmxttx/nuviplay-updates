@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.17",
-  "apkUrl": "https://github.com/rmxttx/nuviplay-updates/releases/download/v1.0.17/Nuviplay-Grok.apk",
-  "notes": "Uma capa por título, com as versões (Dublado, Legendado, 4K) na tela de detalhes. Busca com sugestões, ordenação e área de Ajuda."
+  "versionCode": 19,
+  "versionName": "1.0.18",
+  "apkUrl": "https://github.com/rmxttx/nuviplay-updates/releases/download/v1.0.18/Nuviplay-Grok.apk",
+  "notes": "Versões iguais agora aparecem como Servidor 1, Servidor 2."
 }
